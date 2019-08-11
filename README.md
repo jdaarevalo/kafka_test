@@ -4,6 +4,17 @@ Testing Kafka
 
 For start using kafka I create the docker-compose file, using as base a  Confluent's reposit [https://github.com/confluentinc/cp-docker-images]
 
+## Steps to Run Test
+
+1. Active Kafka and Zookeeper runing:
+- ```docker-compose up -d ```
+2. Add the topic "payment"
+- ```docker-compose exec kafka kafka-topics --create --zookeeper zookeeper:2181 --replication-factor 1 --partitions 10 --topic payments```
+3. Run the script
+- ```python3 producer_consumer_transactions.py```
+
+This process creates a new folder by customer name and files by transaction
+
 ## Usage
 
 Start a cluster:

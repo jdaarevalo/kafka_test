@@ -1,0 +1,14 @@
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.0407739', 'ts': '2018-10-31 12:56:45.040762', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_69_69', 'transaction_id': 't_1540983405.050737', 'ts': '2018-10-31 12:56:45.050727', 'status': 'success'}

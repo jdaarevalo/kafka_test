@@ -63,8 +63,7 @@ if __name__ == '__main__':
             f = open(file_name, "a")
             f.write(str(transaction)+"\n")
             f.close()
+            print('Update the file ' + file_name)
         except Exception as ex:
-            print(response)
-            print(response.decode())
-            print('Exception while writing files')
+            print('Exception while writing file with msg value' + str(response))
             print(str(ex))

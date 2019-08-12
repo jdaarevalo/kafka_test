@@ -1,0 +1,2 @@
+{'customer': 'customer2', 'payment_id': 'customer2_7_7', 'transaction_id': 't_1540983405.0337422', 'ts': '2018-10-31 12:56:45.033729', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_7_7', 'transaction_id': 't_1540983405.031903', 'ts': '2018-10-31 12:56:45.031890', 'status': 'success'}

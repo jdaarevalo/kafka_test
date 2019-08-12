@@ -1,0 +1,6 @@
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.036575', 'ts': '2018-10-31 12:56:45.036561', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.0433788', 'ts': '2018-10-31 12:56:45.043370', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.0446668', 'ts': '2018-10-31 12:56:45.044658', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.0332959', 'ts': '2018-10-31 12:56:45.033282', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.046589', 'ts': '2018-10-31 12:56:45.046563', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_72_72', 'transaction_id': 't_1540983405.040264', 'ts': '2018-10-31 12:56:45.040252', 'status': 'success'}

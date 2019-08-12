@@ -1,0 +1,4 @@
+{'customer': 'customer2', 'payment_id': 'customer2_78_78', 'transaction_id': 't_1540983405.037696', 'ts': '2018-10-31 12:56:45.037685', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_78_78', 'transaction_id': 't_1540983405.047263', 'ts': '2018-10-31 12:56:45.047254', 'status': 'success'}
+{'customer': 'customer2', 'payment_id': 'customer2_78_78', 'transaction_id': 't_1540983405.04795', 'ts': '2018-10-31 12:56:45.047941', 'status': 'failed'}
+{'customer': 'customer2', 'payment_id': 'customer2_78_78', 'transaction_id': 't_1540983405.0535638', 'ts': '2018-10-31 12:56:45.053555', 'status': 'success'}

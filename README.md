@@ -15,6 +15,11 @@ For start using kafka I create the docker-compose file, using as base a  Conflue
 
 This process creates a new folder by customer name and files by transaction
 
+## Requirements
+
+Install kafka-python via pip
+- ```pip install kafka-python```
+
 ## Usage
 
 Start a cluster:

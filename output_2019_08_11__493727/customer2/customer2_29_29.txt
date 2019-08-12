@@ -1,3 +1,0 @@
-{'customer': 'customer2', 'payment_id': 'customer2_29_29', 'transaction_id': 't_1540983405.037827', 'ts': '2018-10-31 12:56:45.037816', 'status': 'success'}
-{'customer': 'customer2', 'payment_id': 'customer2_29_29', 'transaction_id': 't_1540983405.038165', 'ts': '2018-10-31 12:56:45.038153', 'status': 'success'}
-{'customer': 'customer2', 'payment_id': 'customer2_29_29', 'transaction_id': 't_1540983405.040004', 'ts': '2018-10-31 12:56:45.039993', 'status': 'success'}

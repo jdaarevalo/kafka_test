@@ -1,1 +1,0 @@
-{'customer': 'customer2', 'payment_id': 'customer2_34_34', 'transaction_id': 't_1540983405.043054', 'ts': '2018-10-31 12:56:45.043044', 'status': 'success'}

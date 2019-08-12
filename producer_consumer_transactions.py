@@ -49,8 +49,10 @@ if __name__ == '__main__':
 
     consumer = KafkaConsumer("payments",
                              auto_offset_reset='earliest',
+                             enable_auto_commit=False,
                              bootstrap_servers=['localhost:9092'],
                              fetch_max_wait_ms=10000,
+                             group_id='my-group',
                              consumer_timeout_ms=10000,
                              api_version=(0, 10))
 
@@ -66,7 +68,10 @@ if __name__ == '__main__':
             f = open(file_name, "a")
             f.write(str(transaction)+"\n")
             f.close()
-            print('Update the file ' + file_name)
+            #print('Update the file ' + file_name)
+            consumer.commit()
         except Exception as ex:
             print('Exception while writing file with msg value' + str(response))
             print(str(ex))
+
+    consumer.close()

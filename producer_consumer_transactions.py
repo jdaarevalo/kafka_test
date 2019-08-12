@@ -23,8 +23,9 @@ def connect_kafka_producer():
 
 def publish_message(producer_instance, topic_name, key, value):
     try:
+        key_bytes = bytes(key, encoding='utf-8')
         value_bytes = bytes(value, encoding='utf-8')
-        producer_instance.send(topic_name, value=value_bytes)
+        producer_instance.send(topic_name, key=key, value=value_bytes)
         producer_instance.flush()
         print('Message published successfully.')
     except Exception as ex:
@@ -39,7 +40,8 @@ def producer_transactions():
 
         for transaction in transactions:
             print(transaction)
-            publish_message(kafka_producer, 'payments', None, transaction)
+            key = json.loads(transaction)["payment_id"]
+            publish_message(kafka_producer, 'payments', key, transaction)
         if kafka_producer is not None:
             kafka_producer.close()
 
